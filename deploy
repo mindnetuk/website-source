@@ -6,7 +6,7 @@ git push
 
 # delete everything public
 
-cd website-public
+cd website-public/
 
 rm 404.html
 rm favicon.ico
@@ -19,7 +19,7 @@ rm -rf font-awesome
 rm -rf css
 rm -rf js
 
-cd..
+cd ..
 
 # rebuild
 
@@ -27,7 +27,7 @@ hugo
 
 # commit & push
 
-cd website-public
+cd website-public/
 git add .
 git commit -am 'update'
 git push
