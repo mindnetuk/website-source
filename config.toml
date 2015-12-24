@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://mindnetuk.github.io/website-public/"
 languageCode = "en-us"
 title = "The Mind Network"
 theme = "creative"
@@ -50,7 +50,7 @@ publishdir = "website-public"
 	# About section
 	[params.about]
 		headline    = "About us"
-		description = "The *Mind Network* is a community of UK researchers in *philosophy of mind and cognitive science*. We meet twice a year. We present papers, exchange ideas, and have a jolly good time. Graduate students and new arrivals to the UK community are particularly welcome. Subscribe to our mailing list to join us."
+		description = "The *Mind Network* is a community of UK researchers in *philosophy of mind and cognitive science*. We meet twice a year. We present papers, exchange ideas, and have a jolly good time. Graduate students and new arrivals to the UK community are particularly welcome. Subscribe to our mailing list below to join us."
 		buttonText  = "Next meeting"
 
 	# Service section
