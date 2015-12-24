@@ -1,0 +1,38 @@
+# commit & push source
+
+git add .
+git commit -am 'update'
+git push
+
+# delete everything public
+
+cd website-public
+
+rm 404.html
+rm favicon.ico
+rm index.html
+rm sitemap.xml
+rm index.xml
+rm -rf img
+rm -rf fonts
+rm -rf font-awesome
+rm -rf css
+rm -rf js
+
+cd..
+
+# rebuild
+
+hugo
+
+# commit & push
+
+cd website-public
+git add .
+git commit -am 'update'
+git push
+
+# cleanup
+
+cd ..
+
