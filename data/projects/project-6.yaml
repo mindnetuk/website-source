@@ -1,0 +1,55 @@
+modalID: 6
+title: "Edinburgh 2012"
+date: "12–13th October 2012"
+img: 6.jpg
+imgcredit: "Photograph taken by [Craig Cormack](https://www.flickr.com/photos/craigyc/3582352472)"
+category: "Past Meeting"
+description:
+  - firstname: Tim 
+    lastname: Bayne
+    title: Belief and its bedfellows
+    abstract: "This paper attempts to draw some lessons about the nature of belief from considerations concerning beliefs’ ‘bedfellows’: states that are not paradigmatic beliefs but are belief-like in certain important respects. I examine the merits of various proposals about how to categorize such states, before turning to the question of what such states might be able to teach us concerning the nature of belief and the propositional attitudes more generally."
+
+  - firstname: Elizabeth 
+    lastname: Irvine
+    title: Kinds of consciousness?
+    abstract: "Contemporary consciousness science is messy. A wide range of behavioral and neurophysiological measures have been proposed as ‘good’ markers of the presence of consciousness, but so far little progress has been made on building a tested taxonomy of kinds and measures of consciousness. Seth et al. (2008) suggest that an integrative, comparative approach is likely to help. By comparing measures within the same experimental paradigm, we can identify the range of types of consciousness being measured, and the most sensitive or reliable measure of them. Similarly, Shea and Bayne (2010) suggest that a cluster of highly correlated measures can be used infer the existence of a scientific kind of consciousness that they all measure. These methodological approaches are common, productive and reasonably straightforward ways to deal with messy research. However, I suggest that they are unlikely to work in the standard way in consciousness science. By appealing to criteria for identifying successful cases of clustering, and recent experimental work, I suggest that describing the kinds that underlie these clusters as kinds of *consciousness* is methodologically unwarranted. While this is a small part of a bigger picture, some implications on the general status of consciousness science can then be outlined."
+
+  - firstname: Frédérique 
+    lastname: de Vignemont
+    title: The multimodal thesis of bodily experiences
+    abstract: "One way to characterize the specific relation that we have only with our own body is to say that only our own body appears to us from the inside. Although widely accepted, the nature of this specific experiential mode of presentation of the body is rarely spelled out. Most definitions amount to little more than lists of the various body senses (including senses of posture, movement, heat, pressure, and balance). It is true that body senses give a privileged informational access to our own body that we have for no other bodies, by contrast to external senses like vision, which can take many bodies as their object. But a theory of bodily awareness needs to take into account recent empirical evidence that indicates that bodily awareness is infected by a plague of multisensory effects, regardless of any dichotomy between body senses and external senses. Here I will argue in favour of a certain kind of constitutive multimodality thesis of bodily experiences: without multimodality, we would experience our body differently. I will show that the body senses fail to fully account for the content of bodily experiences. I will then propose that vision contributes to compensate for the insufficiencies of the body senses in people who can see. I will finally argue that the multimodality of bodily experiences does not come at the cost of their privileged access to one’s body."
+
+  - firstname: Ian 
+    lastname: Phillips
+    title: Perceiving the passing of time
+    abstract: "During moments of life-threatening danger, people often experience time to pass more slowly. Psychological data suggest that these experiences lie on a continuum: for instance, subjects exposed to mildly frightening stimuli over-estimate the durations of those stimuli relative to controls. This paper focuses on two conceptual puzzles which such experiences raise. The first puzzle is how (if at all) we can reconcile such experiences with what I have elsewhere argued is our naïve conception of temporal experience, according to which experience unfolds over a period of objective time in a way that precisely matches the apparent duration of the period it presents. The second puzzle is how to understand the connection between subjective temporal expansion and our evolved response to danger. For whilst many theorists (and subjects) claim that such experiences aid survival, it is obscure why an illusion of temporal expansion would have any survival benefit. By identifying the key assumptions behind these puzzles, I develop an account of duration perception which resolves both puzzles. The first puzzle is resolved by denying that we perceive duration relative to an objective, subject-independent measure. The second puzzle is resolved by claiming that our subjective measure of time is in itself relevant to our survival. Drawing on discussion of Locke’s views on duration perception I offer one natural candidate proposal: we perceive duration relative to our non-perceptual conscious mental activity."
+
+  - firstname: Matthew 
+    lastname: Ivanowich
+    title: Phenomenal qualities, representationalism, and cognitive science
+    abstract: "In sensory experience we are presented with certain phenomenal qualities such that there is something that it’s like to undergo that experience. Representationalism about phenomenal qualities is the claim that for a sensory experience to have a particular phenomenal quality is a matter of it having a particular representational content. This view is not only widespread in recent philosophy of mind, but moreover, characterizing sensory phenomenology in terms of representational content is a ubiquitous practice in psychology and neuroscience. In this paper, I propose an original representationalist approach to phenomenal qualities that stands in direct contrast to the version of theory which is most dominant in the philosophical literature externalist representationalism. However, it should be noted that (solely due to considerations of space) I do not attempt to provide any direct arguments against externalist representationalism in this paper. Rather, my primary aim here is to describe the outlines of an internalist version of representationalism; specifically, one that is congruent with and informed by the general empirical framework developed and employed by psychology and neuroscience."
+
+  - firstname: Dominic 
+    lastname: Preston
+    title: Extended functionalism defended
+    abstract: "The hypothesis of extended cognition (HEC) derives from a 1998 paper entitled The Extended Mind by Andy Clark & David Chalmers. Within this paper, Clark & Chalmers argue that cognitive processes can, and in some cases do, extend outside the body, encompassing features of the environment. Their argument is elaborated through two key thought experiments, and the Parity Principle. Their hypothesis is, strictly speaking, not reliant on any particular theory of mind, but it is often taken together with, and further justified by, functionalism. I intend to argue that there are strong independent arguments for adopting both functionalism and HEC, and that there are further arguments for adopting their conjunction. I will defend this extended functionalism against its critics, particularly Mark Sprevak, principally by limiting HEC only to cases where the mind extends over what I will call, following Clark, a transparent tool."
+
+  - firstname: Uwe 
+    lastname: Peters
+    title: Self-knowledge, global workspace theory and conscious propositional attitudes
+    abstract: "Peter Carruthers (2009, 2010, 2011) has made a powerful empirically supported case for the view that we know our own propositional attitudes (PA) only via self-interpretation. Carruthers (2011, 2012) claims that the conjunction of this view of self-knowledge and the global workspace theory of consciousness implies that there are no conscious propositional attitudes. I shall argue that this conjunction of theories doesn’t preclude the existence of conscious PAs. More generally, on the global workspace account, there could be conscious states, namely PAs, that are known to the subject only via self-interpretation."
+
+  - firstname: Peter 
+    lastname: Forrest
+    title: Phenomenal contrast, understanding, and sensory imagery
+    abstract: "In this paper I examine a recent debate in the philosophy of mind concerning the existence of ‘cognitive phenomenology’ (CP) by focusing on the arguments of Charles Siewert and Jesse Prinz. I argue that although Prinz’s account adequately explains away the cases Siewert presents in terms of non-cognitive phenomenology, there are still Siewert-inspired cases that elude Prinz-style explanation, and thus support the existence of a generic, course-grained sort of understanding experience. I suggest that these considerations support what I call the Weak, but not the Strong, CP-Existence thesis."
+
+  - firstname: Tony 
+    lastname: Cheng
+    title: Visual memory and phenomenology
+    abstract: "Consciousness and cognition are two difficult topics in the study of mind; the various relations between them are even more daunting. In recent years, Ned Block (1995, 2007, 2011, etc.) has been pushing the view that the content of consciousness is, in general, richer than the content of cognition. This view OVERFLOW for short is controversial and has important implications for both philosophical and empirical issues. The present paper develops a version of this view and discusses relevant ramifications. Section 1 offers some preliminaries, and section 2 introduces the latest version of Block’s view based on the famous Sperling paradigm. Section 3 explains why parts of Block’s view are implausible, and elaborates a weaker version of OVERFLOW. Section 4 discusses further issues. First, I discuss Ian Phillip’s postdiction interpretation (2011) and explain why it is compatible with OVERFLOW. Secondly, I reply to a potential objection from Block that my view cannot accommodate a series of experiments conducted by Victor Lamme’s lab (e.g., 2003). Last, I connect the present discussion to another important literature the multiple-object-tracking discussion in psychology. The general moral is that varieties of attention and visual indexes can explain different levels of visual experiences."
+
+
+
+

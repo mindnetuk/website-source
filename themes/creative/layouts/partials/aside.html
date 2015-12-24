@@ -1,0 +1,13 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<section class="bg-dark" id="aside">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.aside.headline }}{{ . }}{{ end }}</h2>
+                <hr class="light">
+                <div class="text-faded">{{ with .Site.Params.aside.description }}<p>{{ . | markdownify }}</p>{{ end }}</div>
+                <a href="#contact" class="btn btn-primary btn-xl page-scroll">{{ with .Site.Params.aside.buttonText }}{{ . }}{{ end }}</a>
+            </div>
+        </div>
+    </div>
+</section>

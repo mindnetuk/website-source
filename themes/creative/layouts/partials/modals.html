@@ -1,0 +1,39 @@
+{{ "<!-- Portfolio Modals -->" | safeHTML }}
+{{ range .Site.Data.projects }}
+<div class="portfolio-modal modal fade" id="portfolioModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ .title }}</h2>
+                        <h3>{{ .date }}</h3>
+                        <hr class="star-primary">
+                        {{ if isset . "flickr" }}
+                        <div class="img-centered">
+                            <a data-flickr-embed="true"  href="{{ .flickr.url }}" title="{{ .title }}"><img src="{{ .flickr.still }}" width="{{ .flickr.width }}" height="{{ .flickr.height }}" alt="{{ .title }}"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                        </div>
+                        {{ else }}
+                            <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="">
+                            {{ if isset . "imgcredit" }}
+                            <p class="text-imgcredit">{{ .imgcredit | markdownify }}</p>
+                            {{ end }}
+                        {{ end }}
+                        {{ range sort .description "lastname" }}
+                        <h3 class="text-title">{{ .firstname }} {{ .lastname }}<br/><i>{{ .title }}</i></h3>
+                        <p class="text-left">{{ .abstract | markdownify }}<br/></p>
+                        {{ end }}
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttonText }}{{.}}{{ end }}</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

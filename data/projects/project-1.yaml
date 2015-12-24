@@ -1,0 +1,29 @@
+modalID: 1
+title: "Oxford 2010"
+date: "20 March 2010"
+img: 1.jpg
+category: "Past Meeting"
+description:
+  - firstname: Andy
+    lastname: Clark
+    title: Whatever next?
+    abstract: |
+      Andy Clark discussed a brand new theoretical framework in psychology: predictive coding. According to the predictive coding hypothesis, essentially we are prediction machines. The purpose of much of our neural machinery is to predict what happens next. The predictive coding hypothesis applies to all aspects of our mental life from perception to cognition to action. The predictive engine is claimed to be implemented in a neural hierarchy, with each layer in the hierarchy predicting the output of the layer below. ‘Back’ neural projections carry the predictions downwards to more peripheral neural systems and ‘forward’ projections carry the error signals upwards to more central systems, inverting the traditional neural functional hierarchy. Andy Clark carefully analysed the promises of the predictive coding framework and challenges that it faces. Andy introduces predictive coding on the Edge Foundation website: [What scientific concept would improve everybody’s cognitive toolkit?](http://edge.org/q2011/q11_6.html#clark)
+
+  - firstname: Philip
+    lastname: Gerrans
+    title: An integrative explanation of delusion
+    abstract: |
+      Philip Gerrans discussed the neural basis of delusions. At present there are a number of candidates for neural correlates of delusion: abnormalities of dopamine regulation, failure to regulate ventromedial and dorsolateral processing, and right lateral hypofrontality. However, we do not understand the role of these neural properties in producing delusion because we do not know how to transform correlation to causal explanation. Philip proposed a new theoretical definition of delusion: delusion is *the monopoly of mental time travel by hypersalient experiences*. Mental time travel involves the integration of autobiographical memory and imagination in decision making. Recent evidence suggests that unsupervised mental time travel is the default mode of human cognition, and that it is distinct from the mode of decontextualised cognitive processing. A salient experience is an experience that attracts cognitive processing resources. Philip argued that his theoretical definition accurately captures the cognitive architecture that produces delusional psychology and phenomenology. He claimed that the account also has the virtue that it allows us to move from correlation to causal explanation by showing how mechanisms at different levels of the subject, from molecular to the personal level, stand in relations of mutual manipulability.
+
+  - firstname: Lisa 
+    lastname: Bortolotti
+    title: Do delusions undermine self-governance?
+    abstract: |
+      Lisa Bortolotti questioned how autonomy is affected in people who suffer from delusions and confabulations. Do people affected by delusions and confabulations have the capacity to consent to treatment? Should they be allowed to make decisions that affect their well-being? Lisa argued that autonomy should be understood as self-governance, and made a distinction between (a) the capacity to govern oneself, and (b) whether one is successful at governing oneself. The capacity for self-governance depends on the capacity to develop a self-narrative. Being successful at, rather than just merely having the capacity for, self-governance is determined by the coherence of self-narratives and their correspondence to real life events. Lisa claimed that, in most cases, people with delusions or confabulations have the capacity for self-governance, but fail to govern themselves successfully. This is because they have failures of rationality and self-knowledge that impact on the coherence of their self-narratives and the correspondence between those narratives and real life events.
+
+  - firstname: Matt 
+    lastname: Soteriou
+    title: Decision, self-governance, and self-knowledge
+    abstract: |
+      Matt Soteriou aimed to resolve the disagreement between Michael Bratman’s planning theory of intention with David Velleman’s epistemic account of intention. Matt argued that the right account of intention should draw elements from both approaches. His suggestion was that the apparent disagreement between these approaches can be reconciled by appeal to a common notion: a notion of self-governance. Self-governance provides the crucial connection between the mental actions of practical deliberation and planning (which feature in Bratman’s planning account) and the kind of practical self-knowledge that intention can embody and that one’s actions can realise (which feature in Velleman’s epistemic account).

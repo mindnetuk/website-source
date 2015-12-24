@@ -1,0 +1,23 @@
+modalID: 3
+title: "Warwick 2011"
+date: "26 April 2011"
+img: 3.jpg
+imgcredit: "Photograph taken by [Rwenland](https://commons.wikimedia.org/wiki/File:Maths_foyer,_Warwick_University.jpg)"
+category: "Past Meeting"
+description:
+  - firstname: Elizabeth 
+    lastname: Schechter
+    title: Bodies, agents, and psychological subjects
+    abstract: "Under experimental conditions, behavior suggesting dual intentional agency is easily elicited from split-brain subjects who nonetheless usually behave in a unified fashion. This paper presents a model of split-brain agency to account for this apparent tension. Right and left hemisphere are associated with distinct intentional agents, R and L, each of whose unity is grounded in inferential relations that its reasons and intentions bear to each other. These same relations do not hold interhemispherically; rather, unified behavior is largely the result of a split-brain subject’s having a single body, much of whose functional integrity in action is maintained by forces operating downstream of reasoning and intention-formation. R’s and L’s intentions still both belong to the same superordinate agent, however, for they bear, with respect to one and the same body, those special causal powers that my intentions (and mine alone) bear to my body (and to my body alone)."
+
+  - firstname: Dave 
+    lastname: Ward
+    title: Achieving transparency
+    abstract: "It’s often observed that perceptual experience is transparent—we ‘see through’ the qualities of experience to the objects of experience. In recent times, such observations have been invoked to support support various claims about perceptual experience: the existence of qualia, representationalism, and naive realism. **Dave Ward** argued that the phenomenon of transparency can also be invoked to support ‘strong enactivism’—the thesis that capacities for experience and for agency are essentially interdependent. If strong enactivism were true, then we would expect to find a phenomenon that parallels perceptual transparency in agency. Moreover, our constitutive explanation of perceptual transparency should make essential reference to agency, and the constitutive explanation of the parallel phenomenon for agency should make essential reference to perception. Dave argued that there is indeed a parallel phenomenon of transparency in the domain of action, and that the two instances of transparency should be given parallel constitutive explanations of the form the strong enactivist requires. A consequence is that we should think of the transparency of perceptual experience as something that is achieved, not given."
+
+  - firstname: Mark 
+    lastname: Sprevak
+    title: Inference to the hypothesis of extended cognition
+    abstract: "Mark Sprevak’s paper examined a type of argument that has been used to both criticise, and justify, the hypothesis of extended cognition (HEC). HEC claims that human cognitive processes can, and often do, extend outside our head to include objects in the environment. HEC has been variously criticised, and justified by, appeal to inference to the best explanation (IBE). Advocates and critics of HEC claim that we can infer the truth value of HEC based on whether HEC makes a positive or negative explanatory contribution to cognitive science. If assuming HEC makes a positive explanatory contribution to cognitive science, we should infer HEC’s truth. If assuming HEC makes a negative explanatory contribution, we should infer its falsity. Mark Sprevak argued that this general strategy, shared by both advocates and critics of HEC, does not work. The reason is the existence of a rival hypothesis to HEC with a differing truth value, but negligible difference in explanatory value. The existence of this explanatory rival invalidates both IBEs for the truth, and the falsity, of HEC. Explanatory value to cognitive science is simply not a guide to the truth value of HEC."
+
+

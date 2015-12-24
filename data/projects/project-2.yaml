@@ -1,0 +1,21 @@
+modalID: 2
+title: "Cambridge 2010"
+date: "6 November 2010"
+img: 2.jpg
+category: "Past Meeting"
+description:
+  - firstname: Derek
+    lastname: Ball
+    title: On cosmic hermeneutics
+    abstract: "Cosmic hermeneutics is the claim that one can, using only armchair reasoning, deduce all the truths about the world from a limited set of low-level truths. For example, a supporter of cosmic hermeneutics claims that one can deduce all the facts about conscious experience from the truths of microphysics. The possibility of cosmic hermeneutics is denied by most contemporary physicalists. Physicalists typically insist that the connection between physical and phenomenal truths is only discoverable *a posteriori*. In contrast, **Derek Ball** argued that cosmic hermeneutics, and therefore an *a priori* deduction, is possible. He argued that comic hermeneutics is possible if a speaker adopts the right language. A special language in which to describe the low-level truths would enable its speakers to perform the relevant deductions purely in virtue of their linguistic competence. Derek concluded that this result does not threaten physicalism."
+
+  - firstname: Nick
+    lastname: Treanor
+    title: The measure of knowledge
+    abstract: "Nick Treanor’s paper functioned as an introduction to a larger project that sits at the intersection of philosophy of mind, metaphysics and epistemology. The central problem is how to understand what it is to *know more*, or what it is to ameliorate ignorance. This raises issues in philosophy of mind concerning the nature of belief: whether beliefs are properly understood as individuals (and hence as countable). It also raises issues in metaphysics: at the heart of the problem is the question of what the world is like such that more of it can be known. It also raises issues in epistemology: how we understand what it is to know more or what it is to ameliorate ignorance will have consequences for our understanding of epistemic normativity and the aim of belief. Nick’s paper focused on developing the problematic and exploring its shape and character."
+
+  - firstname: Louise 
+    lastname: Richardson
+    title: Flavour, taste and smell
+    abstract: "Louise Richardson’s paper focused on the relationship between scientific work on the senses and our everyday thought and talk about them. She approached this subject via a puzzle about flavour perception: what does holding your nose when trying some fruit-flavoured sweets do? We usually think that flavours are just tasted; does holding your nose impair your ability to taste the sweets? Or does it prevent smell from playing its usual role in flavour perception? Louise argued that findings in the psychology of flavour perception don’t settle this question. To determine whether such findings show that we’re wrong to think of flavours as just tasted, we need to know what we commit ourselves to when we think this. Louise argued that it’s far from clear that we’re committed to anything that the scientific findings show to be false."
+

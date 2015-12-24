@@ -1,0 +1,115 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "The Mind Network"
+theme = "creative"
+publishdir = "website-public"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Your name"
+	description = "Your description"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "The Mind Network"
+
+		[params.navigation.links]
+			about     = "About Us"
+            aside     = "Next Meeting"
+			portfolio = "Past Meetings"
+			services  = "Who We Are"
+			contact   = "Subscribe"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "The Mind Network"
+		subtitle   = "A network for philosophy of mind and cognitive science"
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "About us"
+		description = "The *Mind Network* is a community of UK researchers in *philosophy of mind and cognitive science*. We meet twice a year. We present papers, exchange ideas, and have a jolly good time. Graduate students and new arrivals to the UK community are particularly welcome. Subscribe to our mailing list to join us."
+		buttonText  = "Next meeting"
+
+	# Service section
+	[params.services]
+		headline = "Who we are"
+
+		[[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "Stephen Butterfill"
+            description = "University of Warwick"
+
+        [[params.services.list]]
+			icon = "fa-paper-plane"
+			title = "Tim Crane"
+			description = "University of Cambridge"
+
+        [[params.services.list]]
+            icon = "fa-star-o"
+            title = "Ian Phillips"
+            description = "University of Oxford"
+
+        [[params.services.list]]
+            icon = "fa-sun-o"
+            title = "Louise Richardson"
+            description = "University of Leeds"
+
+        [[params.services.list]]
+            icon = "fa-bicycle"
+            title = "Nick Shea"
+            description = "King's College London"
+
+        [[params.services.list]]
+            icon = "fa-magic"
+            title = "Maja Spener"
+            description = "University of Birmingham"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "Mark Sprevak"
+            description = "University of Edinburgh"
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Next meeting"
+        buttonText = "Subscribe for more information"
+        description = """
+The next meeting will be 4 March 2016 in Peterhouse College, Cambridge. 
+        
+Speakers include Jennifer Corns (Glasgow).
+"""
+
+	# Contact section
+	[params.contact]
+		headline = "Subscribe to our mailing list"
+		description = "We do not share your email address with anyone. You can unsubscribe with one click."

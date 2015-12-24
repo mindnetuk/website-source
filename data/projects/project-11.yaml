@@ -1,0 +1,25 @@
+modalID: 11
+title: "Warwick 2015"
+date: "29 September 2015"
+img: 11.jpg
+category: "Past Meeting"
+flickr: 
+  url: https://www.flickr.com/photos/136937957@N08/albums/72157660096661383
+  still: https://farm1.staticflickr.com/676/23764081185_d2320b119c.jpg
+  width: 500
+  height: 500
+description:
+  - firstname: Anya 
+    lastname: Farennikova
+    title: Unexpected perception
+    abstract: "According to Bayesian approaches to perception, presence of bias optimizes perception. This raises a question about the status of perception of the unexpected. Perception of the unexpected occur when we encounter novel or atypical events. Because this form of perception is a result of invalid expectations, it might be treated as suboptimal: it decreases accuracy and amplifies uncertainty. I argue that we need to rethink the notion of optimality for experiences of unexpected. Focusing on two forms of perception of the unexpected – experiences of change (noticing a new building on the way to work) and of absence (seeing an elephant vanish in a circus trick) – I show that both can be understood as involving optimal decisions. I then explain why optimization is harder to achieve for perception of absence than it is for the perception of change."
+
+  - firstname: Giovanna
+    lastname: Colombetti
+    title: The scaffolded affective mind
+    abstract: "According to Sterelny (2010), cognition is deeply environmentally supported or “scaffolded”. In my talk I will illustrate various ways in which not only cognition, but affectivity as well is scaffolded. I will focus in particular on its material scaffolds, and show how they can come to be “incorporated” into our affective episodes. In doing so I will draw on existing phenomenological accounts of incorporation into the sensorimotor domain (as in the case of the blind person’s cane), and argue that material items can be incorporated also in the affective domain, in a variety of ways."
+
+  - firstname: Olle
+    lastname: Blomberg
+    title: Common knowledge and reductionism about shared agency
+    abstract: "What is it for several agents to intentionally act together? Put differently, what is it for them to have a “shared intention”? According to reductionist accounts, intentional joint action can be understood by exclusive appeal to conceptual resources that are needed anyway for understanding singular action in a social context. In this talk, I will discuss epistemic/doxastic conditions on intentional joint action given such a reductionist approach. Most reductionist accounts include a condition that it must be common knowledge between participants that they have certain intentions and beliefs that causes and coordinates their joint action. By rejecting three arguments that could potentially support such a condition, I argue that reductionists should get rid of the condition as a condition on intentional joint action as such. On the other hand, many reductionist accounts lack a condition which ensures that each participant believes that his or her intended end is a single end intended by each. Without such a doxastic single end condition, the accounts fail to distinguish intentional joint action from mutual exploitation and unintentional joint action."
