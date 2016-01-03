@@ -75,7 +75,7 @@ publishdir = "website-public"
         [[params.services.list]]
             icon = "fa-sun-o"
             title = "Louise Richardson"
-            description = "University of Leeds"
+            description = "University of York"
 
         [[params.services.list]]
             icon = "fa-bicycle"
