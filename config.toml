@@ -106,7 +106,9 @@ publishdir = "website-public"
         description = """
 The next meeting will be 4 March 2016 at the University of Cambridge.
         
-Speakers include Jennifer Corns (Glasgow), Helen Yetter Chappell (York), Alex Grzankowski (Cambridge), and Raamy Majeed (Cambridge) .
+Speakers include Jennifer Corns (Glasgow), Helen Yetter Chappell (York), Alex Grzankowski (Cambridge), and Raamy Majeed (Cambridge).
+
+The local organisers are Chris Meyns and Tim Crane.
 """
 
 	# Contact section
