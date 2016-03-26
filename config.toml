@@ -104,7 +104,7 @@ publishdir = "website-public"
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
         description = """
-The next meeting will be Autumn 2016. We will announce location and speakers shortly.
+The next meeting will be in Sheffield in Autumn 2016. We will announce the speakers shortly.
 """
 
 	# Contact section
