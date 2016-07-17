@@ -104,7 +104,12 @@ publishdir = "website-public"
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
         description = """
-The next meeting will be in Sheffield on 21 October 2016. We will announce the speakers shortly.
+The next meeting will be in Sheffield on 21 October 2016. 
+
+Speakers include:
+
+- Joshua Shepherd (Oxford)
+- Ellen Friedland (KCL)
 
 Please send any enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>).
 """
