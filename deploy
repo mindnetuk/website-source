@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # commit & push source
 
 git add .
