@@ -103,17 +103,13 @@ publishdir = "website-public"
 	[params.aside]
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
-        description = """
-The next meeting will be in Sheffield on 21 October 2016. 
-
-Speakers include:
-
-- Carolyne Price (Open University)
-- John Michael (Warwick)
-- Joshua Shepherd (Oxford)
-
-Please send any enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>).
-"""
+        description = """The next meeting will be in Sheffield on 21 October 2016."""
+        speakers = [
+            "Carolyne Price (Open University)",
+            "John Michael (Warwick)",
+            "Joshua Shepherd (Oxford)"
+        ]
+        contact = """Please send any enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>). """
 
 	# Contact section
 	[params.contact]
