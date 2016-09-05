@@ -105,7 +105,7 @@ publishdir = "website-public"
         buttonText = "Subscribe to keep updated"
         description = """The next meeting will be in Sheffield on 21 October 2016."""
         speakers = [
-            "Carolyne Price (Open University)",
+            "Carolyn Price (Open University)",
             "John Michael (Warwick)",
             "Joshua Shepherd (Oxford)"
         ]
