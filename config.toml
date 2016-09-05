@@ -109,7 +109,10 @@ publishdir = "website-public"
             "John Michael (Warwick)",
             "Joshua Shepherd (Oxford)"
         ]
-        contact = """Please send any enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>). """
+        register = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-in-sheffield-tickets-27502487681)"""
+        contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-in-sheffield-tickets-27502487681) 
+        
+Send enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>)"""
 
 	# Contact section
 	[params.contact]
