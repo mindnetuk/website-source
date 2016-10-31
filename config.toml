@@ -103,16 +103,16 @@ publishdir = "website-public"
 	[params.aside]
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
-        description = """The next meeting will be in Sheffield on 21 October 2016."""
-        speakers = [
-            "Carolyn Price (Open University)",
-            "John Michael (Warwick)",
-            "Joshua Shepherd (Oxford)"
-        ]
-        register = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-in-sheffield-tickets-27502487681)"""
-        contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-in-sheffield-tickets-27502487681) 
+        description = """The next meeting will be in Glasgow on 3 March 2017."""
+#         speakers = [
+#             "Carolyn Price (Open University)",
+#             "John Michael (Warwick)",
+#             "Joshua Shepherd (Oxford)"
+#         ]
+#         register = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-in-sheffield-tickets-27502487681)"""
+#         contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-in-sheffield-tickets-27502487681) 
         
-Send enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>)"""
+# Send enquiries to the local organiser, Luca Barlassina (<mailto:l.barlassina@sheffield.ac.uk>)"""
 
 	# Contact section
 	[params.contact]
