@@ -3,7 +3,7 @@ title: "Glasgow 2017"
 date: "3 March 2017"
 img: 14.jpg
 imgcredit: "Photograph taken by [Michael Beckwith](https://www.flickr.com/photos/118118485@N05/18748003995)"
-category: "Future Meeting"
+category: "Past Meeting"
 description:
   - firstname: Ema 
     lastname: Sullivan-Bisset
@@ -13,7 +13,12 @@ description:
   - firstname: Marcin 
     lastname: Milkowski
     title: "Cognitive architectures and the unity of mind"
-    abstract: "hello"
+    abstract: |
+      What makes the sciences of the mental unified? Allen Newell (Newell 1973, 1990) famously proposed to unify the research by appealing to cognitive architectures. Cognitive architectures are structures whose function is to display phenomena studied by psychologists, be it abstract problem solving, limitations of short-term memory, or temporal patterns of responses to stimuli in experiments. They have become a major approach to modeling the mind as a unitary phenomenon in cognitive science, for example in ACT-R (Anderson 2007), and they have remained immensely important in cognitive neuroscience. Instead of building minimal micro-models of particular psychological tasks, researchers can appeal to unified cognitive architectures whose structure is supposed to be biologically plausible.
+
+      But are contemporary cognitive architectures really unified? Do they really bring about a unified theory of the phenomena in question, or just a motley of individual results collected in the single computational simulation? Maybe cognitive architectures are just a misnomer, and these are rather cognitive slums filled with temporary constructs. One easy reply, along the lines of massive modularity of mind, would be that minds are exactly that: motley collections of cognitive features that might look like junk from a distance.
+
+      My approach is however different. The question is: what renders a model of mind unified and integrated? Is there a way to produce a unified cognitive architecture, and not just an integrated one? I will insist that explanatory unification is the process of developing general, simple, elegant, and beautiful explanations; while explanatory integration is the process of combining multiple explanations in a coherent manner. My argument is that researchers have been busy with integrating individual results, and not with unifying the model. But this is not necessarily a bad thing.
 
   - firstname: Michael 
     lastname: Wheeler
