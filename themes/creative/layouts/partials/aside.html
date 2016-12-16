@@ -11,8 +11,11 @@
                     <p>Speakers include:</p>
                         <ul>{{range . }}<li style="font-size: 16px">{{ . | markdownify }}</li>{{ end }}</ul>
                     {{ end }}
-                    {{ with .Site.Params.aside.register }}<p style="font-size: 16px; padding-top: 16px">{{ . | markdownify }}</p>{{ end }}
-                    {{ with .Site.Params.aside.contact }}<p style="font-size: 16px; padding-top: 16px">{{ . | markdownify }}</p>{{ end }}
+                    {{ with .Site.Params.aside.contact }}
+                        <p style="font-size: 16px; padding-top: 16px">
+                        {{ with .Site.Params.aside.register }}{{ . | markdownify }} {{ end }}
+                        {{ . | markdownify }}</p>
+                    {{ end }}
                 </div>
                 <a href="#contact" class="btn btn-primary btn-xl page-scroll">{{ with .Site.Params.aside.buttonText }}{{ . }}{{ end }}</a>
             </div>
