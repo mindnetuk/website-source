@@ -109,8 +109,8 @@ publishdir = "website-public"
         "Marcin Milkowski (Polish Academy of Sciences)",
         "Michael Wheeler (Stirling)"
         ]
-        register = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.com/e/mind-network-meeting-in-glasgow-tickets-30297103452)"""
-        contact = """Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
+        contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.com/e/mind-network-meeting-in-glasgow-tickets-30297103452). 
+            Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
 
 	# Contact section
 	[params.contact]
