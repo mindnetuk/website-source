@@ -111,7 +111,7 @@ publishdir = "website-public"
         ]
         contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.com/e/mind-network-meeting-in-glasgow-tickets-30297103452)"""
         
-        # Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
+# Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
 
 	# Contact section
 	[params.contact]
