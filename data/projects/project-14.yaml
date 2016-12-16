@@ -1,0 +1,30 @@
+modalID: 14
+title: "Glasgow 2017"
+date: "3 March 2017"
+img: 14.jpg
+imgcredit: "Photograph taken by [Michael Beckwith](https://www.flickr.com/photos/118118485@N05/18748003995)"
+category: "Past Meeting"
+description:
+  - firstname: Ema 
+    lastname: Sullivan-Bisset
+    title: "Implicit bias as unconscious imagining"
+    abstract: "I propose a new account of the nature of implicit bias, according to which implicit biases are unconscious imaginings. I begin by introducing implicit bias in terms congenial to what most—if not all—philosophers and psychologists have said about its nature in the literature so far. I then ask what we are looking for in an account of implicit bias, so as to lay out the desiderata to be met by my account, which then frame the discussion of it. Next I lay out my proposed account and the explanatory work it can do. I close by outlining and responding to some potential objections to my account, before concluding that the thesis that implicit biases are unconscious imaginings ought to be taken seriously."
+
+  - firstname: Marcin 
+    lastname: Milkowski
+    title: "Cognitive architectures and the unity of mind"
+    abstract: |
+      What makes the sciences of the mental unified? Allen Newell (Newell 1973, 1990) famously proposed to unify the research by appealing to cognitive architectures. Cognitive architectures are structures whose function is to display phenomena studied by psychologists, be it abstract problem solving, limitations of short-term memory, or temporal patterns of responses to stimuli in experiments. They have become a major approach to modeling the mind as a unitary phenomenon in cognitive science, for example in ACT-R (Anderson 2007), and they have remained immensely important in cognitive neuroscience. Instead of building minimal micro-models of particular psychological tasks, researchers can appeal to unified cognitive architectures whose structure is supposed to be biologically plausible.
+
+      But are contemporary cognitive architectures really unified? Do they really bring about a unified theory of the phenomena in question, or just a motley of individual results collected in the single computational simulation? Maybe cognitive architectures are just a misnomer, and these are rather cognitive slums filled with temporary constructs. One easy reply, along the lines of massive modularity of mind, would be that minds are exactly that: motley collections of cognitive features that might look like junk from a distance.
+
+      My approach is however different. The question is: what renders a model of mind unified and integrated? Is there a way to produce a unified cognitive architecture, and not just an integrated one? I will insist that explanatory unification is the process of developing general, simple, elegant, and beautiful explanations; while explanatory integration is the process of combining multiple explanations in a coherent manner. My argument is that researchers have been busy with integrating individual results, and not with unifying the model. But this is not necessarily a bad thing.
+
+  - firstname: Michael 
+    lastname: Wheeler
+    title: "Extended cognition and epistemic credit: Thinking, knowing, owning"
+    abstract: "According to a popular view in contemporary epistemology, the correct application of one’s cognitive abilities in believing truly, or in the process of coming to believe truly, is necessary and sufficient for a certain kind of credit that is, in turn, necessary for knowledge. By and large, epistemologists who think that cognitive abilities perform this kind of fundamental epistemic role take the cognitive abilities concerned to be based in various states and processes that are spatially located inside the head of the knowing subject. Enter the hypothesis of extended cognition (henceforth ExC). According to ExC, the physical machinery of mind sometimes extends beyond the skull and skin. In this talk, I shall explore what happens when the credit condition on knowledge is brought into contact with ExC. Via discussions of (a) empirical psychological work on the adaptive character of technologically augmented memory, (b) some famous and not-so-famous thought experiments from the extended cognition and extended knowledge literatures, and (c) philosophical work on what is required for a subject to own her cognitive states and processes, conclusions will be drawn both for ‘knowledge in the wild’ and for ExC."
+    
+
+
+
