@@ -25,9 +25,11 @@
                             <p class="text-imgcredit">{{ .imgcredit | markdownify }}</p>
                             {{ end }}
                         {{ end }}
-                        {{ range sort .description "lastname" }}
-                        <h3 class="text-title">{{ .firstname }} {{ .lastname }}<br/><i>{{ .title }}</i></h3>
-                        <p class="text-left">{{ .abstract | markdownify }}<br/></p>
+                        {{ if isset . "description" }}
+                            {{ range sort .description "lastname" }}
+                            <h3 class="text-title">{{ .firstname }} {{ .lastname }}<br/><i>{{ .title }}</i></h3>
+                            <p class="text-left">{{ .abstract | markdownify }}<br/></p>
+                            {{ end }}
                         {{ end }}
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttonText }}{{.}}{{ end }}</button>
                     </div>
