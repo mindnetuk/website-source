@@ -103,18 +103,18 @@ publishdir = "website-public"
 	[params.aside]
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
-        description = """The next meeting will be in Nottingham, Thursday 21 September 2017. It is sponsored by the [Mind Association](http://mindassociation.org/)."""
+        description = """The Spring 2018 meeting will be in Edinburgh, more details to follow."""
 
 # Speakers TBA.
         
 # Send enquiries to the local organiser, Craig French (<mailto:craig.french@nottingham.ac.uk>)."""
-        speakers = [
-        "Ali Boyle (Trinity Hall, Cambridge)",
-        "Will Davies (Birmingham)",
-        "Joulia Smortchkova (Bochum)"
-        ]
-        contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-nottingham-tickets-34568507336)"""
-        # contact = """Send enquiries to the local organiser, Craig French (<mailto:craig.french@nottingham.ac.uk>)."""
+        # speakers = [
+        # "Ali Boyle (Trinity Hall, Cambridge)",
+        # "Will Davies (Birmingham)",
+        # "Joulia Smortchkova (Bochum)"
+        # ]
+        # contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-nottingham-tickets-34568507336)"""
+        contact = """Send enquiries to the local organiser, Mark Sprevak (<mailto:mark.sprevak@ed.ac.uk>)."""
         
 # Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
 
