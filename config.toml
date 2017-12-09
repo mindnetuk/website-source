@@ -50,7 +50,7 @@ publishdir = "website-public"
 	# About section
 	[params.about]
 		headline    = "About us"
-		description = "The *Mind Network* is a community of UK researchers in *philosophy of mind and cognitive science*. We meet twice a year. We present papers, exchange ideas, and have a jolly good time. Graduate students and new arrivals to the UK community are particularly welcome. Subscribe to our mailing list below to join us."
+		description = "The *Mind Network* is a community of UK researchers in *philosophy of mind and cognitive science*. We meet twice a year. We present papers, exchange ideas, and generally have a good time. Graduate students and new arrivals to the UK community are particularly welcome. Subscribe to our mailing list below to join us."
 		buttonText  = "Next meeting"
 
 	# Service section
@@ -65,12 +65,12 @@ publishdir = "website-public"
         [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Tim Crane"
-			description = "University of Cambridge"
+			description = "Central European University"
 
         [[params.services.list]]
             icon = "fa-star-o"
             title = "Ian Phillips"
-            description = "University of Oxford"
+            description = "University of Birmingham"
 
         [[params.services.list]]
             icon = "fa-sun-o"
