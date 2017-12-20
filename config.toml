@@ -103,16 +103,16 @@ publishdir = "website-public"
 	[params.aside]
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
-        description = """The Spring 2018 meeting will be in Edinburgh, more details to follow."""
+        description = """The next meeting will be in Edinburgh on 20 April 2018. Join our email list to be alerted to when registration opens."""
 
 # Speakers TBA.
         
 # Send enquiries to the local organiser, Craig French (<mailto:craig.french@nottingham.ac.uk>)."""
-        # speakers = [
-        # "Ali Boyle (Trinity Hall, Cambridge)",
-        # "Will Davies (Birmingham)",
-        # "Joulia Smortchkova (Bochum)"
-        # ]
+        speakers = [
+        "Marta Halina (HPS Cambridge)",
+        "Vincent  Müller (Leeds)"
+        "Carlos Zednik (Magdeburg)",
+        ]
         # contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-nottingham-tickets-34568507336)"""
         contact = """Send enquiries to the local organiser, Mark Sprevak (<mailto:mark.sprevak@ed.ac.uk>)."""
         
