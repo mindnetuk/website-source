@@ -19,8 +19,8 @@ description:
 
   - firstname: "Vincent"
     lastname: "Müller"
-    title: "TBA"
-    abstract: ""
+    title: "Neurosurveillance"
+    abstract: "The traditional problem of surveillance or privacy concerns personal data and behaviour – and it is believed that what we humans think, feel, desire and plan must be private because access to these cognitive processes is practically impossible, or even impossible in principle. We argue that current technical developments in live brain-imaging, EEG, brain implants and other brain-computer interfaces (BCIs) make it practically possible to detect data from the brain, analyse that data and extract significant cognitive content – including content that is not accessible to the subject themselves. Though all current techniques require close proximity, they do not require a conscious or collaborative subject. We conclude that neurosurveillance is a real, current, threat to privacy. - These considerations have relevance for two traditional issues: a) the alleged epistemic inaccessibility of phenomenal content in ‘other minds’ and b) the relevance of the philosophy of mind for empirical questions, generally."
     
 
 
