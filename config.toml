@@ -110,7 +110,7 @@ publishdir = "website-public"
 # Send enquiries to the local organiser, Craig French (<mailto:craig.french@nottingham.ac.uk>)."""
         speakers = [
         "Marta Halina (HPS Cambridge)",
-        "Vincent  Müller (Leeds)",
+        "Vincent C. Müller (Leeds)",
         "Carlos Zednik (Magdeburg)"
         ]
         # contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-nottingham-tickets-34568507336)"""
