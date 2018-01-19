@@ -113,7 +113,10 @@ publishdir = "website-public"
         "Vincent C. Müller (Leeds)",
         "Carlos Zednik (Magdeburg)"
         ]
-        contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-tickets-42154389915)"""
+        contact = """[Register to attend the meeting here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-tickets-42154389915)
+        
+*Note that this Mind Network meeting is being held alongside the Models of the Mind conference at University of Edinburgh. Participants are warmly encouraged to attend both events: <https://modelsofthemind.wordpress.com/>*
+        """
         # contact = """Send enquiries to the local organiser, Mark Sprevak (<mailto:mark.sprevak@ed.ac.uk>)."""
         
 # Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
