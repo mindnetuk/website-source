@@ -1,4 +1,4 @@
-baseurl = "http://mindnetuk.github.io/website-public/"
+baseurl = "https://mindnetuk.github.io/website-public/"
 languageCode = "en-us"
 title = "The Mind Network"
 theme = "creative"
