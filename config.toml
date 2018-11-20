@@ -103,22 +103,22 @@ publishdir = "website-public"
 	[params.aside]
 		headline = "Next meeting"
         buttonText = "Subscribe to keep updated"
-        description = """The next meeting will be in Edinburgh on 20 April 2018."""
+        description = """The Mind Network is currently on hiatus. Details of past meetings are below."""
 
 # Speakers TBA.
         
 # Send enquiries to the local organiser, Craig French (<mailto:craig.french@nottingham.ac.uk>)."""
-        speakers = [
-        "Marta Halina (HPS Cambridge)",
-        "Vincent C. Müller (Leeds)",
-        "Carlos Zednik (Magdeburg)"
-        ]
-        contact = """[Register to attend here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-tickets-42154389915)
+        # speakers = [
+        # "Marta Halina (HPS Cambridge)",
+        # "Vincent C. Müller (Leeds)",
+        # "Carlos Zednik (Magdeburg)"
+        # ]
+        # contact = """[Register to attend here (EventBrite)](https://www.eventbrite.co.uk/e/mind-network-meeting-tickets-42154389915)
 
-This meeting is kindly sponsored by the Scots Philosophical Association.
+# This meeting is kindly sponsored by the Scots Philosophical Association.
 
-*Note that this Mind Network meeting is being held the day after the Models of the Mind conference at University of Edinburgh. Participants are warmly encouraged to attend both events: <https://modelsofthemind.wordpress.com/>*
-        """
+# *Note that this Mind Network meeting is being held the day after the Models of the Mind conference at University of Edinburgh. Participants are warmly encouraged to attend both events: <https://modelsofthemind.wordpress.com/>*
+        # """
         # contact = """Send enquiries to the local organiser, Mark Sprevak (<mailto:mark.sprevak@ed.ac.uk>)."""
         
 # Send enquiries to the local organiser, Jennifer Corns (<mailto:jencorns@gmail.com>)"""
